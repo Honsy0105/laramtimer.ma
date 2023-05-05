@@ -1,0 +1,148 @@
+
+#articlemini {
+   /* background-color: yellowgreen; */
+   height: 500px;
+   width: 250px;
+   position: absolute;
+   left: 50%;
+   /* top: 50%; */
+   transform: translate(-50%);
+   display: inline-block;
+   border: 2px solid rgb(150, 32, 148);
+}
+#aside2{
+   height: 450px;
+   width: 250px;
+   /* background-color: rgb(116, 114, 114); */
+}
+#divheadre {
+   height: 100px;
+   width: 100%;
+   /* background-color: #431e5a; */
+  
+}
+#dote2 {
+   margin-right: 10px;
+   float: right;
+   font-size: 20px;
+   font-weight: bolder;
+   cursor: pointer;
+   color: rgb(7, 45, 115);
+   
+
+}
+#plus {
+   float: right;
+   margin-top: 20px;
+   margin-right: 12px;
+   font-size: 27px;
+   font-weight: 600;
+   color: rgb(93, 89, 93);
+   cursor: pointer;
+}
+#divlarame {
+   height: 245px;
+   width: 100% ;
+   text-align: center;
+ 
+}
+#divcercle{
+    border: 7px solid #5c108b;
+   background-color: gainsboro;
+   height:230px;
+   width: 230px;
+   margin-left: 3px;
+   border-radius: 130px;
+}
+#datetime {
+  
+   position: absolute;
+   left: 50%;
+   top: 44%;
+   transform: translate(-50%, -50%);
+}
+#time {
+   color: #431e5a;
+   font-size: 36px;
+   font-weight: 700;
+   font-family: 'Times New Roman', Times, serif;
+   margin: 10px;
+   
+}
+#smalltime {
+margin-top :10px ;
+
+}
+#divbtn2 {
+   text-align: center;
+   margin-top: 10px;
+     display: contents;
+}
+#divbtn2 , button { 
+  height: 30px;
+  width: 90px;
+  border: 0;
+  border-radius: 18px;
+  margin: 8px;
+  font-size: 15px;
+  font-weight: 200;
+  text-align: center;
+   
+}
+#dem {
+   background-color: #5c108b;
+   color: azure;
+   cursor: pointer;
+}
+#divmini {
+   height: 34px;
+   background-color: #b099be;
+   text-align: center;
+   line-height: 34px;
+}
+
+#titlemini {
+   color: rgb(58, 58, 58);
+   border-bottom: 1px solid rgb(85, 82, 82);
+   text-decoration: none;
+   font-size: 17px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#titlemini:hover {
+   font-size: 20px;
+   color: rgb(9, 9, 9);
+   border-bottom: 1px solid  black;
+}
+#anuler{
+   height: 30px;
+     width: 90px;
+     border: 0;
+     border-radius: 18px;
+     margin: 8px;
+     font-size: 17px;
+     font-weight: 500;
+     text-align: center;
+     color:#6f7070;
+     cursor:pointer;
+     
+}
+#pause {
+   "height: 30px;
+   width: 90px;
+   border: 0;
+   border-radius: 18px;
+   margin: 8px;
+   font-size: 17px;
+   font-weight: 500;
+   text-align: center;
+   color:red;
+   cursor:pointer;
+}
+#pause:hover{
+   color: rgb(186, 5, 54);
+   background: rgb(203, 203, 203);
+}
+#anuler:hover {
+   background-color: rgb(203, 203, 203);;
+   color:rgb(34, 34, 34) ;
+}

@@ -1,0 +1,126 @@
+ #articleOne {
+   height: 500px;
+   width: 250px;
+   position: absolute;
+   left: 50%;
+   /* top: 50%; */
+   transform: translate(-50%);
+   display: inline-block;
+ }
+#asideone{
+   
+   height: 450px;
+   width: 250px;
+   background-color: rgb(116, 114, 114);
+   /* display: inline-block; */
+
+   /* position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%); */
+   
+
+}
+#divdote{
+   margin-right: 10px;
+    /* margin-top: 10px;  */
+   width: 100%;
+   height: 100px;
+   /* padding-bottom: 20px; */
+   /* background-color: violet; */
+   
+   
+ }
+ #dote{
+   margin-right: 10px;
+   float: right;
+   font-size: 20px;
+   font-weight: bolder;
+   cursor: pointer;
+   color: rgb(2, 51, 143);
+
+ }
+ #getdate {
+    
+ text-align: center;
+   height: 200px;
+   width: 100%;
+    /* background-color: rgb(124, 142, 136); */
+    line-height: 200px;
+   
+
+ }
+ #divbtn{
+   
+   height: 130px;
+   /* background-color: yellowgreen; */
+   line-height: 150px;
+   text-align: center;
+
+
+
+ }
+
+ #idvbtn , button {
+     height: 30px;
+     width: 90px;
+     border: 0;
+     border-radius: 18px;
+     margin: 5px;
+     font-size: 15px;
+     font-weight: 200; 
+ }
+ #tour {
+   background: rgb(191, 189, 189);
+   color: rgb(0, 0, 0);
+ }
+#demarrer{
+   color: white;
+   background-color: rgb(62, 7, 135);
+}
+#date{
+   font-size: 45px;
+   font-weight: 300;
+   font-style: normal;
+   width: 100px;
+   text-align: center;
+   height: 100px;
+}
+#date, p {
+   display: contents;
+
+   
+}
+ #btnout1 {
+   
+   text-align: center;
+    margin-top: 10px;
+}
+#chrono {
+
+   color: rgb(58, 58, 58);
+   border-bottom: 1px solid rgb(85, 82, 82);
+   text-decoration: none;
+   font-size: 15px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#chrono:hover {
+   font-size: 20px;
+   color: rgb(9, 9, 9);
+   border-bottom: 1px solid  black;
+}
+/* #parametre {
+   float: right;
+   background-color: #a6a4a4;
+   margin-top: 35px;
+   margin-right: 12px;
+   border-radius: 20px;
+   width: 100px;
+   height: 28px;
+   box-shadow: 1px 0px 15px -1px;
+   text-align: center;
+   color: rgb(92, 6, 92);
+   
+} */
+/* --------Miniteur------------ */
